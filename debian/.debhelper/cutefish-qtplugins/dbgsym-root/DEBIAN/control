@@ -1,0 +1,13 @@
+Package: cutefish-qtplugins-dbgsym
+Package-Type: ddeb
+Source: cutefish-qtplugins
+Version: 0.1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 3764
+Depends: cutefish-qtplugins (= 0.1)
+Section: debug
+Priority: optional
+Description: debug symbols for cutefish-qtplugins
+Build-Ids: 3ef36bab078fb411d38f4c4e475c75afacffe5e3 5e5f17b0ce3859a2adf641bdd2cfe51d1cef936c

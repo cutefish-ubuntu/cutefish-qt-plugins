@@ -1,0 +1,5 @@
+-I/root/Downloads/cutefish/qt-plugins/platformtheme
+-I/root/Downloads/cutefish/qt-plugins/obj-x86_64-linux-gnu/platformtheme
+-o
+/root/Downloads/cutefish/qt-plugins/obj-x86_64-linux-gnu/platformtheme/statusnotifieritemadaptor.moc
+/root/Downloads/cutefish/qt-plugins/obj-x86_64-linux-gnu/platformtheme/statusnotifieritemadaptor.h

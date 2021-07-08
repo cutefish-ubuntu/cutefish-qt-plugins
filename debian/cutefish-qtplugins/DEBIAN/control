@@ -1,0 +1,10 @@
+Package: cutefish-qtplugins
+Version: 0.1
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 509
+Depends: libc6 (>= 2.29), libdbusmenu-qt5-2 (>= 0.3.2), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.69.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5quickcontrols2-5 (>= 5.7.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libqt5xdgiconloader3 (>= 2.0.0), libstdc++6 (>= 5), qtbase-abi-5-15-2
+Section: devel
+Priority: optional
+Homepage: https://github.com/cutefishos/qt-plugins
+Description: CutefishOS Qt Plugins
